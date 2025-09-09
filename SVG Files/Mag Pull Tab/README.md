@@ -5,7 +5,7 @@ A ready-to-use **SVG file** designed for laser cutting. Simple pull tab used wit
 ## 📐 Design
 - Format: SVG (Scalable Vector Graphics)
 - Units: mm (millimeters)  
-- Recommended material: Squadron 55 (500d/500d) or Squadron 51 (500d/1000d) Cordura.
+- Recommended material: Squadron 55 (500d/500d) Cordura.
 
 ## 🖼 Preview
 ![Preview of the design](preview.png)  
