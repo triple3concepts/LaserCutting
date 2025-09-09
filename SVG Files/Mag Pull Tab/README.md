@@ -1,6 +1,6 @@
 # 🔧 Mag Pull Tab
 
-A ready-to-use **SVG file** designed for laser cutting.  
+A ready-to-use **SVG file** designed for laser cutting. Simple pull tab used with shock cord to create active retention in pouches, placards, etc.
 
 ## 📐 Design
 - Format: SVG (Scalable Vector Graphics)
@@ -19,6 +19,7 @@ A ready-to-use **SVG file** designed for laser cutting.
    - Power: XX%  
    - Speed: XX mm/s  
    - Passes: X  
-5. Cut or engrave.  
+5. Cut or engrave.
+6. Sew tab together.
 
 ## ⚠️ Notes
