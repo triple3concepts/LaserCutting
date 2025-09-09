@@ -1,13 +1,11 @@
-# 🔧 Laser Cut SVG: Project Name
+# 🔧 Mag Pull Tab
 
 A ready-to-use **SVG file** designed for laser cutting.  
 
 ## 📐 About This File
 - Format: SVG (Scalable Vector Graphics)
-- Optimized for laser cutting
 - Units: mm (millimeters)  
-- Recommended material: [e.g., 3mm plywood, acrylic, etc.]  
-- Size: [Insert dimensions here]  
+- Recommended material: Squadron 55 (500d/500d) or Squadron 51 (500d/1000d) Cordura.
 
 ## 🖼 Preview
 ![Preview of the design](preview.png)  
@@ -25,9 +23,7 @@ A ready-to-use **SVG file** designed for laser cutting.
 
 ## ⚠️ Notes
 - Always test on scrap material first.  
-- Verify that stroke colors (cut vs engrave) are set correctly.  
-- This design is for **personal use** (or specify license).  
+- Verify that stroke colors (cut vs engrave) are set correctly. 
 
 ## 📄 License
-This project is licensed under the [MIT License](LICENSE).  
-(You can change this to Creative Commons if you prefer sharing your designs freely.)  
+This project is licensed under the [Apache 2.0](LICENSE).  
