@@ -2,15 +2,15 @@
 
 Simple pull tab used with shock cord to create active retention in pouches, placards, etc.
 
-## 📐 Design
+## Design
 - Format: SVG (Scalable Vector Graphics)
 - Recommended material: Squadron 55 (500d/500d) laminate Cordura.
 
-## 🖼 Preview
+## Preview
 [mag pull tab.png](https://github.com/triple3concepts/LaserCutting/blob/main/SVG%20Files/Mag%20Pull%20Tab/Mag%20Pull%20Tab.png)
 
 
-## 🛠 How to Use
+## How to Use
 1. Download the SVG file from this repository.  
 2. Import it into your laser cutter software (e.g., LightBurn, Glowforge, RDWorks).  
 3. Adjust scaling if necessary (check the units!).  
@@ -21,4 +21,4 @@ Simple pull tab used with shock cord to create active retention in pouches, plac
 5. Cut or engrave.
 6. Sew tab together.
 
-## ⚠️ Notes
+## Notes
