@@ -18,7 +18,7 @@ Simple pull tab used with shock cord to create active retention in pouches, plac
    - Power: XX%  
    - Speed: XX mm/s  
    - Passes: X  
-5. Cut or engrave.
+5. Cut on laser machine.
 6. Sew tab together.
 
 ## Notes
