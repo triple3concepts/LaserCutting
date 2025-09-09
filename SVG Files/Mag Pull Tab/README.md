@@ -22,5 +22,3 @@ A ready-to-use **SVG file** designed for laser cutting.
 5. Cut or engrave.  
 
 ## ⚠️ Notes
-- Always test on scrap material first.  
-- Verify that stroke colors (cut vs engrave) are set correctly. 
