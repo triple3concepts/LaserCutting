@@ -11,7 +11,7 @@ Simple pull tab used with shock cord to create active retention in pouches, plac
 
 
 ## How to Use
-1. Download the SVG file from this repository.  
+1. Download the .SVG file from this repository.  
 2. Import it into your laser cutter software (e.g., LightBurn, Glowforge, RDWorks).  
 3. Adjust scaling if necessary (check the units!).  
 4. Choose material and settings:  
