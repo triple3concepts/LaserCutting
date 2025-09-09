@@ -7,8 +7,8 @@ Simple pull tab used with shock cord to create active retention in pouches, plac
 - Recommended material: Squadron 55 (500d/500d) laminate Cordura.
 
 ## 🖼 Preview
-![Preview of the design](preview.png)  
-*(Add a screenshot or photo of the finished piece here)*  
+![Finished Product](mag pull tab.png)  
+
 
 ## 🛠 How to Use
 1. Download the SVG file from this repository.  
