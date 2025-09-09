@@ -4,7 +4,6 @@ Simple pull tab used with shock cord to create active retention in pouches, plac
 
 ## 📐 Design
 - Format: SVG (Scalable Vector Graphics)
-- Units: mm (millimeters)  
 - Recommended material: Squadron 55 (500d/500d) laminate Cordura.
 
 ## 🖼 Preview
