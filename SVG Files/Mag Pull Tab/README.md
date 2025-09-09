@@ -24,6 +24,3 @@ A ready-to-use **SVG file** designed for laser cutting.
 ## ⚠️ Notes
 - Always test on scrap material first.  
 - Verify that stroke colors (cut vs engrave) are set correctly. 
-
-## 📄 License
-This project is licensed under the [Apache 2.0](LICENSE).  
