@@ -2,6 +2,7 @@
 # HS Retention Tabs
 
 Onewrap velcro tab modeled after [Haley Strategic Retention Tabs](https://haleystrategic.com/shop/categories/retention-tabs).
+Works well with [Mag Pull Tab](https://github.com/triple3concepts/LaserCutting/tree/main/SVG%20Files/Mag%20Pull%20Tab).
 
 ## Design
 - Format: SVG (Scalable Vector Graphics).
