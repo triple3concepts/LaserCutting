@@ -19,3 +19,4 @@ Onewrap velcro tab modeled after [Haley Strategic Retention Tabs](https://haleys
 6. Sew tab together.
 
 ## Notes
+You can create these without a laser cutter and just cut them out by hand.
