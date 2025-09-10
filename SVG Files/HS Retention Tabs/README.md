@@ -4,7 +4,7 @@
 Onewrap velcro tab modeled after [Haley Strategic Retention Tabs](https://haleystrategic.com/shop/categories/retention-tabs).
 
 ## Design
-- Format: SVG (Scalable Vector Graphics) and PDF
+- Format: SVG (Scalable Vector Graphics).
 - Recommended material: 1.5" width onewrap velcro.
 
 ## How to Use
