@@ -20,4 +20,4 @@ CURV or TEGRIS  modeled after [ADAPT 1](https://guardianwarriorsolutions.com/pro
 
 ## Notes
 You will need some chicago screw (or similar) hardware to secure the clasping effect design of the adaptor as well as potentially for what you connect them to.
-
+May not be a 1-1 replica of the APADT series. 
