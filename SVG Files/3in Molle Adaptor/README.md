@@ -1,6 +1,6 @@
 # 3" Molle Adaptor
 
-Onewrap velcro tab modeled after [ADAPT 1](https://guardianwarriorsolutions.com/product/adapt-1/).
+CURV or TEGRIS  modeled after [ADAPT 1](https://guardianwarriorsolutions.com/product/adapt-1/).
 
 
 ## Design
