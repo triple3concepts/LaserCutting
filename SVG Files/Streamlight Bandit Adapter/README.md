@@ -18,7 +18,7 @@ Allows a bandit headlamp module to be velcro'd to a opposite mating surface.
 6. Sew.
 
 ## Preview
-
+[bandit](SVG Files/Streamlight Bandit Adapter/bandit_image.jpeg)
 
 ## Notes
 The "strap" laminate piece is sewn to the base laminate piece with 10mm allowance from the edge.
